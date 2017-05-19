@@ -1,2 +1,8 @@
-# pyneng-online-jun-jul-2017
-Материалы курса
+# Репозиторий курса PyNEng Online
+
+* [examples](https://github.com/pyneng/pyneng-online-jun-jul-2017/tree/master/examples) - примеры кода, которые используются на лекциях
+* [exercises](https://github.com/pyneng/pyneng-online-jun-jul-2017/tree/master/exercises) - домашние задания
+* [cheatsheets](https://github.com/pyneng/pyneng-online-jun-jul-2017/tree/master/cheatsheets) - небольшие шпаргалки по темам курса
+
+Информация о курсе и вспомогательных материалах находится на [сайте курса](https://pyneng.github.io/)
+
